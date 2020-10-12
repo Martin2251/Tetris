@@ -1,2 +1,2 @@
 # Tetris
-Tetris Game
+Tetris Game using JS
